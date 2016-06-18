@@ -1,0 +1,17 @@
+body{
+background-color: #A901DB
+}
+
+div{
+       background-color:green;
+       height: 200px;
+       width: 200px;
+       margin: 10px;    
+}
+
+#circle{
+	border-radius: 100px;
+	background-color: black;
+}
+#cool{
+color:red;
